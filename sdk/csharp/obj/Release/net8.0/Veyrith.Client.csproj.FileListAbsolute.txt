@@ -1,0 +1,11 @@
+/home/ubuntu/auralith/sdk/csharp/bin/Release/net8.0/Veyrith.Client.deps.json
+/home/ubuntu/auralith/sdk/csharp/bin/Release/net8.0/Veyrith.Client.dll
+/home/ubuntu/auralith/sdk/csharp/bin/Release/net8.0/Veyrith.Client.pdb
+/home/ubuntu/auralith/sdk/csharp/obj/Release/net8.0/Veyrith.Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/auralith/sdk/csharp/obj/Release/net8.0/Veyrith.Client.AssemblyInfoInputs.cache
+/home/ubuntu/auralith/sdk/csharp/obj/Release/net8.0/Veyrith.Client.AssemblyInfo.cs
+/home/ubuntu/auralith/sdk/csharp/obj/Release/net8.0/Veyrith.Client.csproj.CoreCompileInputs.cache
+/home/ubuntu/auralith/sdk/csharp/obj/Release/net8.0/Veyrith.Client.dll
+/home/ubuntu/auralith/sdk/csharp/obj/Release/net8.0/refint/Veyrith.Client.dll
+/home/ubuntu/auralith/sdk/csharp/obj/Release/net8.0/Veyrith.Client.pdb
+/home/ubuntu/auralith/sdk/csharp/obj/Release/net8.0/ref/Veyrith.Client.dll
